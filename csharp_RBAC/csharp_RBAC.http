@@ -1,0 +1,6 @@
+@csharp_RBAC_HostAddress = http://localhost:5076
+
+GET {{csharp_RBAC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
